@@ -1339,6 +1339,10 @@ button, input, select, option, textarea {
   .review {
     padding-bottom: 0;
   }
+  
+  .review__item {
+    height: 100%;
+  }
 
   .review__nav {
     margin-top: 60px;
